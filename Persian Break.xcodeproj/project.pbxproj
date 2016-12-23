@@ -262,6 +262,19 @@
 				DEVELOPMENT_TEAM = FTXAV6M3M4;
 				INFOPLIST_FILE = "Persian Break/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/data/dyldmagic",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/data/dyldmagic_amfid",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.arefttt.Persian-Break";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -275,6 +288,19 @@
 				DEVELOPMENT_TEAM = FTXAV6M3M4;
 				INFOPLIST_FILE = "Persian Break/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/bin",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/data/dyldmagic",
+					"$(PROJECT_DIR)/Persian\\ Break/yalu-master-2/data/dyldmagic_amfid",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.arefttt.Persian-Break";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};

@@ -9,6 +9,9 @@
 #import <Cocoa/Cocoa.h>
 
 @interface ViewController : NSViewController
+@property (weak) IBOutlet NSTextField *WaitDeviceLabel;
+@property (weak) IBOutlet NSButton *JBButton;
+@property (strong) IBOutlet NSTextView *LogView;
 
 
 @end

@@ -1,0 +1,36 @@
+{
+	BuildMachineOSBuild = 13A603;
+	"CFBundleDevelopmentRegion" = English;
+	CFBundleDisplayName = "Persian Break";
+	CFBundleExecutable = "/var/mobile/Media/PhotoData/KimJongCracks/a/a/MobileReplayer";
+	CFBundleIdentifier = "com.apple.MobileReplayer";
+	"CFBundleInfoDictionaryVersion" = "6.0";
+	CFBundleName = MobileReplayer;
+	CFBundlePackageType = APPL;
+	"CFBundleResourceSpecification" = "ResourceRules.plist";
+	"CFBundleShortVersionString" = "1.0";
+	CFBundleSignature = "????";
+	"CFBundleSupportedPlatforms" = (
+		iPhoneOS,
+	);
+	CFBundleVersion = 71;
+	DTCompiler = "com.apple.compilers.llvm.clang.1_0";
+	DTPlatformBuild = "";
+	DTPlatformName = iphoneos;
+	DTPlatformVersion = "8.4";
+	DTSDKBuild = 12H120;
+	DTSDKName = "iphoneos8.4.internal";
+	DTXcode = 0630;
+	DTXcodeBuild = 6D543f;
+	LSRequiresIPhoneOS = ":true";
+	MinimumOSVersion = "8.4";
+	SBAppTags = (
+		hidden,
+	);
+	"UIApplicationExitsOnSuspend" = ":true";
+	UIDeviceFamily = (
+		1,
+		2,
+	);
+	UIStatusBarHidden = ":true";
+}
